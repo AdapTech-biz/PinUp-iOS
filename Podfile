@@ -12,6 +12,9 @@ target 'PinUp' do
  pod 'Firebase/Auth'
  pod 'Firebase/Storage'
  pod 'SVProgressHUD'
-
-
+pod 'SnapKit', '~> 4.0.0'
+pod 'Spring', :git => 'https://github.com/MengTo/Spring.git'
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'RxKeyboard'
 end

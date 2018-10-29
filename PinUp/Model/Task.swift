@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Task{
+struct Task{
     var title = ""
     var description = ""
     var dateCreated = Date()
